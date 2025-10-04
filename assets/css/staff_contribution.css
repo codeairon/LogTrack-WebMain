@@ -1,0 +1,141 @@
+:root {
+  --brand: #2e7d32;
+  --brand-dark: #1b5e20;
+  --bg: #f4f6f8;
+  --card: #ffffff;
+  --text: #222;
+  --muted: #6b7280;
+  --shadow: 0 2px 8px rgba(0,0,0,0.08);
+  --radius: 14px;
+}
+
+/* Base */
+body {
+  font-family: "Segoe UI", system-ui, -apple-system, sans-serif;
+  background: var(--bg);
+  color: var(--text);
+  min-height: 100vh;
+  overflow-x: hidden;
+}
+
+/* Main Wrapper + Header */
+.main-wrapper {
+  margin-left: 0;
+  transition: margin-left .25s ease;
+}
+.main-wrapper.shifted { margin-left: 220px; }
+
+header {
+  height: 64px;
+  background: #fff;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 0 18px;
+  box-shadow: var(--shadow);
+  position: sticky;
+  top: 0;
+  z-index: 5;
+}
+.menu-icon {
+  font-size: 24px;
+  color: var(--brand);
+  cursor: pointer;
+  margin-right: 10px;
+}
+header h2 { font-size: 18px; color: var(--brand); }
+
+/* Page */
+.page {
+  padding: 24px clamp(16px, 3vw, 28px);
+  max-width: 1200px;
+  margin: 0 auto;
+}
+.page h3 {
+  color: var(--brand);
+  margin-bottom: 16px;
+  font-weight: 700;
+}
+
+/* Fix grid layout for contribution cards */
+.contribution-grid {
+  display: grid !important;
+  grid-template-columns: repeat(4, 1fr); /* exactly 4 per row */
+  gap: 1.5rem;
+  margin-top: 1.5rem;
+}
+
+.contribution-card {
+  width: auto !important;  /* prevent forced 100% width */
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  min-height: 120px; /* optional: make them equal height */
+    background: var(--card);
+  border-radius: var(--radius);
+  padding: 1rem;
+  box-shadow: var(--shadow);
+  text-align: center;
+  transition: transform 0.2s;
+
+}
+
+
+.contribution-card:hover {
+  transform: translateY(-3px);
+}
+
+.contribution-card h4 {
+  margin-bottom: 0.5rem;
+  color: var(--brand);
+  font-weight: 600;
+}
+
+.contribution-card.done {
+  border-left: 6px solid var(--brand);
+}
+
+.contribution-card.pending {
+  border-left: 6px solid #e53935;
+}
+
+.contribution-card p {
+  margin: 0.5rem 0;
+  font-size: 0.9rem;
+  color: var(--muted);
+}
+
+.contribution-card.done p {
+  color: var(--brand);
+}
+.contribution-card.pending p {
+  color: #e53935;
+}
+
+/* Button */
+.btn-add {
+  background: var(--brand);
+  color: #fff;
+  border: none;
+  padding: 0.5rem 1rem;
+  border-radius: 8px;
+  cursor: pointer;
+  font-size: 0.9rem;
+  transition: background 0.2s;
+}
+
+.btn-add:hover {
+  background: var(--brand-dark);
+}
+
+@media (max-width: 1024px) {
+  .contribution-grid {
+    grid-template-columns: repeat(2, 1fr); /* 2 per row */
+  }
+}
+@media (max-width: 600px) {
+  .contribution-grid {
+    grid-template-columns: 1fr; /* stack vertically on phones */
+  }
+}

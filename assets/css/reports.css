@@ -1,0 +1,111 @@
+/* Reports Page Styles */
+
+.page-header {
+    margin-bottom: 20px;
+}
+
+.page-header h3 {
+    font-size: 1.5rem;
+    margin-bottom: 5px;
+    color: #2e7d32; /* green accent */
+}
+
+.page-header p {
+    font-size: 0.9rem;
+    color: #555;
+}
+
+/* Report Cards */
+.report-cards {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+    gap: 20px;
+    margin-bottom: 30px;
+}
+
+.report-card {
+    background: #fff;
+    border-radius: 12px;
+    padding: 20px;
+    box-shadow: 0 2px 6px rgba(0,0,0,0.08);
+    transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+.report-card:hover {
+    transform: translateY(-3px);
+    box-shadow: 0 4px 12px rgba(0,0,0,0.12);
+}
+
+.report-card h3 {
+    margin: 0 0 10px;
+    font-size: 1.2rem;
+    color: #333;
+}
+
+.report-card p {
+    font-size: 0.9rem;
+    color: #666;
+    margin-bottom: 15px;
+}
+
+.btn-generate {
+    display: inline-block;
+    padding: 8px 14px;
+    background: #2e7d32;
+    color: #fff;
+    font-size: 0.9rem;
+    border-radius: 6px;
+    text-decoration: none;
+    transition: background 0.2s ease;
+}
+
+.btn-generate:hover {
+    background: #256028;
+}
+
+/* Reports History */
+.reports-history h3 {
+    margin-bottom: 15px;
+    font-size: 1.2rem;
+    color: #333;
+}
+
+.reports-table {
+    width: 100%;
+    border-collapse: collapse;
+    background: #fff;
+    border-radius: 10px;
+    overflow: hidden;
+    box-shadow: 0 1px 4px rgba(0,0,0,0.08);
+}
+
+.reports-table thead {
+    background: #2e7d32;
+    color: #fff;
+}
+
+.reports-table th, 
+.reports-table td {
+    padding: 12px 15px;
+    text-align: left;
+    font-size: 0.9rem;
+}
+
+.reports-table tbody tr:nth-child(even) {
+    background: #f9f9f9;
+}
+
+.btn-view {
+    display: inline-block;
+    padding: 6px 12px;
+    background: #1976d2;
+    color: #fff;
+    font-size: 0.8rem;
+    border-radius: 6px;
+    text-decoration: none;
+    transition: background 0.2s ease;
+}
+
+.btn-view:hover {
+    background: #115293;
+}

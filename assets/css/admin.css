@@ -1,0 +1,36 @@
+/* Sidebar Base */
+.sidebar {
+  width: 220px;
+  background-color: #006400;
+  color: #fff;
+  transition: width 0.3s ease, transform 0.3s ease;
+  overflow-y: auto;
+  position: fixed;
+  left: 0;
+  top: 0;
+  bottom: 0;
+  z-index: 1000;
+}
+
+.sidebar.active {
+  transform: translateX(-100%); /* slide out */
+}
+
+.main-wrapper {
+  margin-left: 220px;
+  transition: margin-left 0.3s ease;
+}
+
+.main-wrapper.shifted {
+  margin-left: 0;
+}
+
+/* Dropdowns */
+.dropdown .dropdown-container {
+  display: none;
+  flex-direction: column;
+  background-color: #005500;
+}
+.dropdown.open .dropdown-container {
+  display: flex;
+}

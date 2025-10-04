@@ -1,0 +1,279 @@
+
+    * {
+      box-sizing: border-box;
+      margin: 0;
+      padding: 0;
+    }
+
+    body {
+      font-family: 'Segoe UI', sans-serif;
+      background-color: #f4f4f4;
+      height: 100vh;
+      overflow-y: auto;
+      transition: all 0.3s ease;
+    }
+
+    /* Layout wrapper */
+.layout {
+  display: flex;
+  min-height: 100vh;
+}
+
+.sidebar {
+  width: 220px;
+  background-color: #006400;
+  color: #fff;
+  transition: width 0.3s ease;
+  overflow-y: auto;
+  flex-shrink: 0; /* <-- important so it collapses properly in flex */
+}
+
+.sidebar.active {
+  width: 0;
+  overflow: hidden; /* hide text/icons */
+}
+
+    .sidebar .logo {
+      display: flex;
+      align-items: center;
+      padding: 0 20px;
+      height: 60px;
+      font-size: 30px;
+      font-weight: bold;
+      background-color: #006400;
+    }
+
+    .sidebar .logo img {
+      height: 30px;
+      width: 30px;
+      margin-right: 10px;
+    }
+
+    .nav-link {
+      padding: 15px 20px;
+      text-decoration: none;
+      color: #fff;
+      display: flex;
+      align-items: center;
+      font-size: 16px;
+      transition: background 0.2s ease;
+    }
+
+    .nav-link i {
+      margin-right: 10px;
+    }
+
+    .nav-link:hover, .nav-link.active {
+      background-color: #004d00;
+    }
+
+    .dropdown {
+      position: relative;
+    }
+
+    .dropdown .dropdown-container {
+      display: none;
+      flex-direction: column;
+      background-color: #005500;
+    }
+
+    .dropdown:hover .dropdown-container {
+      display: flex;
+    }
+
+    .dropdown-container a {
+      padding: 12px 40px;
+      font-size: 14px;
+      text-decoration: none;
+      color: #fff;
+      transition: background 0.2s ease;
+    }
+
+    .dropdown-container a:hover {
+      background-color: #003d00;
+    }
+/* Main content */
+.main-wrapper {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  transition: margin-left 0.3s ease;
+}
+
+
+/* Header */
+header {
+  background-color: white;
+  height: 60px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 0 20px;
+  box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+  position: sticky;
+  top: 0;
+  z-index: 10;
+}
+
+    .header-content {
+      display: flex;
+      align-items: center;
+    }
+
+    .menu-icon {
+      font-size: 24px;
+      cursor: pointer;
+      margin-right: 20px;
+      color: #2e7d32;
+    }
+
+    header h2 {
+      color: #2e7d32;
+      font-size: 20px;
+    }
+
+    .right-icons .notification {
+      font-size: 22px;
+      color: gray;
+      margin-left: 20px;
+      cursor: pointer;
+    }
+
+    .content {
+      padding: 30px 40px;
+      overflow-y: auto;
+      flex-grow: 1;
+    }
+
+    .table-header {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      margin-bottom: 20px;
+      flex-wrap: wrap;
+    }
+
+    .table-header h3 {
+      font-size: 22px;
+      font-weight: 600;
+      color: #2e7d32;
+    }
+
+    .table-actions {
+      display: flex;
+      align-items: center;
+      gap: 10px;
+    }
+
+    .search-input {
+      padding: 8px 12px;
+      border: 1px solid #ccc;
+      border-radius: 20px;
+      font-size: 14px;
+      outline: none;
+    }
+
+    .action-btn {
+      background-color: #2e7d32;
+      border: none;
+      padding: 8px 10px;
+      border-radius: 50%;
+      cursor: pointer;
+      color: white;
+      font-size: 15px;
+    }
+
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      background: white;
+      box-shadow: 0 1px 3px rgba(0,0,0,0.1);
+      border-radius: 8px;
+      overflow: hidden;
+    }
+
+    th, td {
+      text-align: left;
+      padding: 12px 15px;
+      border-bottom: 1px solid #ddd;
+    }
+
+    th {
+      background-color: #2e7d32;
+      color: white;
+    }
+
+    tr:hover {
+      background-color: #f9f9f9;
+    }
+
+    .status-icon {
+      text-align: center;
+      font-size: 18px;
+    }
+
+    .status-solved { color: green; }
+    .status-ongoing { color: red; }
+    .status-pending { color: orange; }
+
+    /* Admin Section */
+    .sidebar .admin-section {
+      margin-top: auto;
+      padding: 20px;
+      border-top: 1px solid rgba(255, 255, 255, 0.2);
+    }
+
+    .admin-info {
+      display: flex;
+      align-items: center;
+      font-size: 22px;
+      margin-bottom: 10px;
+    }
+
+    .admin-info i {
+      font-size: 30px;
+      margin-right: 15px;
+    }
+
+    .logout-btn {
+      background-color: #004d00;
+      padding: 10px;
+      border-radius: 4px;
+      text-align: center;
+      color: #fff;
+      text-decoration: none;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      font-size: 16px;
+      transition: background 0.2s ease;
+    }
+
+    .logout-btn i {
+      margin-right: 8px;
+    }
+
+    .logout-btn:hover {
+      background-color: #003700;
+    }
+.modal-content{
+  background:#fff;
+  margin:5% auto;
+  padding:30px;
+  border:1px solid #888;
+  width:80%;
+  max-width:900px;
+  border-radius:8px;
+  box-shadow:0 4px 12px rgba(0,0,0,.3);
+
+  /* --- NEW --- */
+  max-height:75vh;          /* 75 % of viewport height                */
+  overflow-y:auto;          /* add a nice scrollbar when content tall */
+
+  /* Remove the gap when sidebar is hidden */
+
+}
+
+.sidebar:not(.active) ~ .main-wrapper.shifted {
+  margin-left: 0;
+}
