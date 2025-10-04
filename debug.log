@@ -1,0 +1,3272 @@
+Generated QR: C:\xampp\htdocs\LogTrackmain\inc/../assets/qrcodes/12345.png
+Generated QR: C:\xampp\htdocs\LogTrackmain\inc/../assets/qrcodes/105.png
+Generated QR: C:\xampp\htdocs\LogTrackmain\inc/../assets/qrcodes/106.png
+Generated QR: C:\xampp\htdocs\LogTrackmain\inc/../assets/qrcodes/107.png
+Generated QR: C:\xampp\htdocs\LogTrackmain\inc/../assets/qrcodes/108.png
+Generated QR: C:\xampp\htdocs\LogTrackmain\inc/../assets/qrcodes/111.png
+Generated QR: C:\xampp\htdocs\LogTrackmain\inc/../assets/qrcodes/110.png
+Generated QR: C:\xampp\htdocs\LogTrackmain\inc/../assets/qrcodes/109.png
+Generated QR: C:\xampp\htdocs\LogTrackmain\inc/../assets/qrcodes/113.png
+✅ QR Generated: C:\xampp\htdocs\LogTrackmain\inc/../assets/qrcodes/114.png
+✅ QR Generated: C:\xampp\htdocs\LogTrackmain\inc/../assets/qrcodes/115.png
+✅ QR Generated: C:\xampp\htdocs\LogTrackmain\inc/../assets/qrcodes/116.png
+Dispose error: Unknown column 'owner_address' in 'field list'
+Dispose error: Unknown column 'owner_address' in 'field list'
+Dispose error: Unknown column 'owner_address' in 'field list'
+Dispose error: Unknown column 'owner_address' in 'field list'
+✅ QR Generated: C:\xampp\htdocs\LogTrackmain\inc/../assets/qrcodes/117.png
+
+
+✅ QR Generated: C:\xampp\htdocs\LogTrackmain\inc/../assets/qrcodes/118.png
+✅ QR Generated: C:\xampp\htdocs\LogTrackmain\inc/../assets/qrcodes/119.png
+✅ QR Generated: C:\xampp\htdocs\LogTrackmain\inc/../assets/qrcodes/120.png
+✅ QR Generated: C:\xampp\htdocs\LogTrackmain\inc/../assets/qrcodes/123.png
+✅ QR Generated: C:\xampp\htdocs\LogTrackmain\inc/../assets/qrcodes/126.png
+✅ QR Generated: C:\xampp\htdocs\LogTrackmain\inc/../assets/qrcodes/129.png
+✅ QR Generated: C:\xampp\htdocs\LogTrackmain\inc/../assets/qrcodes/130.png
+✅ QR Generated: C:\xampp\htdocs\LogTrackmain\inc/../assets/qrcodes/131.png
+✅ QR Generated: C:\xampp\htdocs\LogTrackmain\inc/../assets/qrcodes/132.png
+✅ QR Generated: C:\xampp\htdocs\LogTrackmain\inc/../assets/qrcodes/133.png
+Dispose error: Unknown column 'place' in 'field list'
+Dispose error: Unknown column 'place' in 'field list'
+Dispose error: Unknown column 'place' in 'field list'
+[15-Sep-2025 16:37:46 Europe/Berlin] PHP Fatal error:  Uncaught ArgumentCountError: The number of elements in the type definition string must match the number of bind variables in C:\xampp\htdocs\LogTrackmain\admin\update_log.php:38
+Stack trace:
+#0 C:\xampp\htdocs\LogTrackmain\admin\update_log.php(38): mysqli_stmt->bind_param('siiiiissssssi', '2025-09-11T21:3...', '1', '2', '181', '4', '13', 'Community-Based...', 'jkjk', '\tJuan\xC2\xA0Dela\xC2\xA0Cr...', '\tJuan\xC2\xA0Dela\xC2\xA0Cr...', '2025-09-11', '\tBarangay Capta...', 'Active', 133)
+#1 {main}
+  thrown in C:\xampp\htdocs\LogTrackmain\admin\update_log.php on line 38
+[15-Sep-2025 16:37:52 Europe/Berlin] PHP Fatal error:  Uncaught ArgumentCountError: The number of elements in the type definition string must match the number of bind variables in C:\xampp\htdocs\LogTrackmain\admin\update_log.php:38
+Stack trace:
+#0 C:\xampp\htdocs\LogTrackmain\admin\update_log.php(38): mysqli_stmt->bind_param('siiiiissssssi', '2025-09-11T21:3...', '1', '2', '182', '4', '13', 'Community-Based...', 'jkjk', '\tJuan\xC2\xA0Dela\xC2\xA0Cr...', '\tJuan\xC2\xA0Dela\xC2\xA0Cr...', '2025-09-11', '\tBarangay Capta...', 'Active', 133)
+#1 {main}
+  thrown in C:\xampp\htdocs\LogTrackmain\admin\update_log.php on line 38
+[15-Sep-2025 16:39:03 Europe/Berlin] PHP Fatal error:  Uncaught ArgumentCountError: The number of elements in the type definition string must match the number of bind variables in C:\xampp\htdocs\LogTrackmain\admin\update_log.php:38
+Stack trace:
+#0 C:\xampp\htdocs\LogTrackmain\admin\update_log.php(38): mysqli_stmt->bind_param('siiiiissssssi', '2025-09-11T21:3...', '1', '2', '181', '4', '13', 'Community-Based...', 'jkjk', '\tJuan\xC2\xA0Dela\xC2\xA0Cr...', '\tJuan\xC2\xA0Dela\xC2\xA0Cr...', '2025-09-11', '\tBarangay Capta...', 'Active', 133)
+#1 {main}
+  thrown in C:\xampp\htdocs\LogTrackmain\admin\update_log.php on line 38
+[15-Sep-2025 16:41:36 Europe/Berlin] PHP Fatal error:  Uncaught ArgumentCountError: The number of elements in the type definition string must match the number of bind variables in C:\xampp\htdocs\LogTrackmain\admin\update_log.php:38
+Stack trace:
+#0 C:\xampp\htdocs\LogTrackmain\admin\update_log.php(38): mysqli_stmt->bind_param('siiiiissssssi', '2025-09-11T21:3...', '1', '2', '181', '4', '13', 'Community-Based...', 'jkjk', '\tJuan\xC2\xA0Dela\xC2\xA0Cr...', '\tJuan\xC2\xA0Dela\xC2\xA0Cr...', '2025-09-11', '\tBarangay Capta...', 'Active', 133)
+#1 {main}
+  thrown in C:\xampp\htdocs\LogTrackmain\admin\update_log.php on line 38
+[15-Sep-2025 16:41:38 Europe/Berlin] PHP Fatal error:  Uncaught ArgumentCountError: The number of elements in the type definition string must match the number of bind variables in C:\xampp\htdocs\LogTrackmain\admin\update_log.php:38
+Stack trace:
+#0 C:\xampp\htdocs\LogTrackmain\admin\update_log.php(38): mysqli_stmt->bind_param('siiiiissssssi', '2025-09-11T21:3...', '1', '2', '181', '4', '13', 'Community-Based...', 'jkjk', '\tJuan\xC2\xA0Dela\xC2\xA0Cr...', '\tJuan\xC2\xA0Dela\xC2\xA0Cr...', '2025-09-11', '\tBarangay Capta...', 'Active', 133)
+#1 {main}
+  thrown in C:\xampp\htdocs\LogTrackmain\admin\update_log.php on line 38
+[15-Sep-2025 16:41:41 Europe/Berlin] PHP Fatal error:  Uncaught ArgumentCountError: The number of elements in the type definition string must match the number of bind variables in C:\xampp\htdocs\LogTrackmain\admin\update_log.php:38
+Stack trace:
+#0 C:\xampp\htdocs\LogTrackmain\admin\update_log.php(38): mysqli_stmt->bind_param('siiiiissssssi', '2025-09-11T21:3...', '1', '2', '181', '4', '13', 'Community-Based...', 'jkjk', '\tJuan\xC2\xA0Dela\xC2\xA0Cr...', '\tJuan\xC2\xA0Dela\xC2\xA0Cr...', '2025-09-11', '\tBarangay Capta...', 'Active', 133)
+#1 {main}
+  thrown in C:\xampp\htdocs\LogTrackmain\admin\update_log.php on line 38
+[15-Sep-2025 16:54:51 Europe/Berlin] Incoming POST to update_log.php: Array
+(
+    [id] => 133
+    [date_time] => 2025-09-11T21:39
+    [district_id] => 1
+    [municipality_id] => 2
+    [barangay_id] => 181
+    [offense_category_id] => 4
+    [offense_type_id] => 13
+    [offense_custom] => Community-Based & Sustainable Forestry, EO 23 – Logging moratorium violation (natural forests)
+    [remarks] => jkjk
+    [status] => Active
+    [species_form] => Array
+        (
+            [0] => Batikuling
+        )
+
+    [species_custom] => Array
+        (
+            [0] => 
+        )
+
+    [form] => Array
+        (
+            [0] => Round Logs
+        )
+
+    [form_custom] => Array
+        (
+            [0] => 
+        )
+
+    [size] => Array
+        (
+            [0] => M
+        )
+
+    [size_custom] => Array
+        (
+            [0] => 
+        )
+
+    [pieces] => Array
+        (
+            [0] => 1
+        )
+
+    [volume] => Array
+        (
+            [0] => 12.00
+        )
+
+    [value] => Array
+        (
+            [0] => 1.00
+        )
+
+    [origin] => Array
+        (
+            [0] => 1
+        )
+
+    [owner] => Array
+        (
+            [0] => aa
+        )
+
+    [kind] => Array
+        (
+            [0] => van
+        )
+
+    [plate] => Array
+        (
+            [0] => none
+        )
+
+    [engine] => Array
+        (
+            [0] => EN456789 / CH789456
+        )
+
+    [vehicle_value] => Array
+        (
+            [0] => 1.00
+        )
+
+    [driver] => Array
+        (
+            [0] => aaa
+        )
+
+    [equipment] => Array
+        (
+            [0] => Chainsaw - Stihl MS361
+        )
+
+    [equipment_features] => Array
+        (
+            [0] => machine
+        )
+
+    [equipment_value] => Array
+        (
+            [0] => 1.00
+        )
+
+    [equipment_owner] => Array
+        (
+            [0] => aaa
+        )
+
+    [officer] => 	Juan Dela Cruz
+    [witness] => 	Juan Dela Cruz
+    [issue_date] => 2025-09-11
+    [conform] => 	Barangay Captain
+)
+
+[15-Sep-2025 16:54:51 Europe/Berlin] PHP Fatal error:  Uncaught ArgumentCountError: The number of elements in the type definition string must match the number of bind variables in C:\xampp\htdocs\LogTrackmain\admin\update_log.php:40
+Stack trace:
+#0 C:\xampp\htdocs\LogTrackmain\admin\update_log.php(40): mysqli_stmt->bind_param('siiiiissssssi', '2025-09-11T21:3...', '1', '2', '181', '4', '13', 'Community-Based...', 'jkjk', '\tJuan\xC2\xA0Dela\xC2\xA0Cr...', '\tJuan\xC2\xA0Dela\xC2\xA0Cr...', '2025-09-11', '\tBarangay Capta...', 'Active', 133)
+#1 {main}
+  thrown in C:\xampp\htdocs\LogTrackmain\admin\update_log.php on line 40
+[16-Sep-2025 05:20:04 Europe/Berlin] Incoming POST to update_log.php: Array
+(
+    [id] => 132
+    [date_time] => 2025-09-11T21:34
+    [district_id] => 2
+    [municipality_id] => 10
+    [barangay_id] => 138
+    [offense_category_id] => 4
+    [offense_type_id] => 13
+    [offense_custom] => Community-Based & Sustainable Forestry, EO 23 – Logging moratorium violation (natural forests)
+    [remarks] => qwqw
+    [status] => Active
+    [species_form] => Array
+        (
+            [0] => Narra
+        )
+
+    [species_custom] => Array
+        (
+            [0] => 
+        )
+
+    [form] => Array
+        (
+            [0] => Round Logs
+        )
+
+    [form_custom] => Array
+        (
+            [0] => 
+        )
+
+    [size] => Array
+        (
+            [0] => L
+        )
+
+    [size_custom] => Array
+        (
+            [0] => 
+        )
+
+    [pieces] => Array
+        (
+            [0] => 1
+        )
+
+    [volume] => Array
+        (
+            [0] => 12.00
+        )
+
+    [value] => Array
+        (
+            [0] => 1.00
+        )
+
+    [origin] => Array
+        (
+            [0] => 1
+        )
+
+    [owner] => Array
+        (
+            [0] => q
+        )
+
+    [kind] => Array
+        (
+            [0] => van
+        )
+
+    [plate] => Array
+        (
+            [0] => none
+        )
+
+    [engine] => Array
+        (
+            [0] => EN456789 / CH789456
+        )
+
+    [vehicle_value] => Array
+        (
+            [0] => 1.00
+        )
+
+    [driver] => Array
+        (
+            [0] => q
+        )
+
+    [equipment] => Array
+        (
+            [0] => Chainsaw - Stihl MS361
+        )
+
+    [equipment_features] => Array
+        (
+            [0] => machine
+        )
+
+    [equipment_value] => Array
+        (
+            [0] => 1.00
+        )
+
+    [equipment_owner] => Array
+        (
+            [0] => q
+        )
+
+    [officer] => 	Juan Dela Cruz
+    [witness] => 	Juan Dela Cruz
+    [issue_date] => 2025-09-11
+    [conform] => 	Barangay Captain
+)
+
+[16-Sep-2025 05:20:04 Europe/Berlin] PHP Fatal error:  Uncaught Error: mysqli_stmt::bind_param(): Argument #4 cannot be passed by reference in C:\xampp\htdocs\LogTrackmain\admin\update_log.php:81
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\LogTrackmain\admin\update_log.php on line 81
+[16-Sep-2025 05:21:25 Europe/Berlin] Incoming POST to update_log.php: Array
+(
+    [id] => 132
+    [date_time] => 2025-09-11T21:34
+    [district_id] => 2
+    [municipality_id] => 10
+    [barangay_id] => 138
+    [offense_category_id] => 4
+    [offense_type_id] => 13
+    [offense_custom] => Community-Based & Sustainable Forestry, EO 23 – Logging moratorium violation (natural forests)
+    [remarks] => qwqw
+    [status] => Active
+    [species_form] => Array
+        (
+            [0] => Narra
+        )
+
+    [species_custom] => Array
+        (
+            [0] => 
+        )
+
+    [form] => Array
+        (
+            [0] => Round Logs
+        )
+
+    [form_custom] => Array
+        (
+            [0] => 
+        )
+
+    [size] => Array
+        (
+            [0] => L
+        )
+
+    [size_custom] => Array
+        (
+            [0] => 
+        )
+
+    [pieces] => Array
+        (
+            [0] => 1
+        )
+
+    [volume] => Array
+        (
+            [0] => 12.00
+        )
+
+    [value] => Array
+        (
+            [0] => 1.00
+        )
+
+    [origin] => Array
+        (
+            [0] => 1
+        )
+
+    [owner] => Array
+        (
+            [0] => q
+        )
+
+    [kind] => Array
+        (
+            [0] => van
+        )
+
+    [plate] => Array
+        (
+            [0] => none
+        )
+
+    [engine] => Array
+        (
+            [0] => EN456789 / CH789456
+        )
+
+    [vehicle_value] => Array
+        (
+            [0] => 1.00
+        )
+
+    [driver] => Array
+        (
+            [0] => q
+        )
+
+    [equipment] => Array
+        (
+            [0] => Chainsaw - Stihl MS361
+        )
+
+    [equipment_features] => Array
+        (
+            [0] => machine
+        )
+
+    [equipment_value] => Array
+        (
+            [0] => 1.00
+        )
+
+    [equipment_owner] => Array
+        (
+            [0] => q
+        )
+
+    [officer] => 	Juan Dela Cruz
+    [witness] => 	Juan Dela Cruz
+    [issue_date] => 2025-09-11
+    [conform] => 	Barangay Captain
+)
+
+[16-Sep-2025 05:21:25 Europe/Berlin] PHP Fatal error:  Uncaught Error: mysqli_stmt::bind_param(): Argument #4 cannot be passed by reference in C:\xampp\htdocs\LogTrackmain\admin\update_log.php:81
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\LogTrackmain\admin\update_log.php on line 81
+[16-Sep-2025 05:38:48 Europe/Berlin] Incoming POST to update_log.php: Array
+(
+    [id] => 133
+    [date_time] => 2025-09-11T21:39
+    [district_id] => 1
+    [municipality_id] => 2
+    [barangay_id] => 181
+    [offense_category_id] => 4
+    [offense_type_id] => 13
+    [offense_custom] => Community-Based & Sustainable Forestry, EO 23 – Logging moratorium violation (natural forests)
+    [remarks] => jkjk
+    [status] => Closed
+    [species_form] => Array
+        (
+            [0] => Batikuling
+        )
+
+    [species_custom] => Array
+        (
+            [0] => 
+        )
+
+    [form] => Array
+        (
+            [0] => Round Logs
+        )
+
+    [form_custom] => Array
+        (
+            [0] => 
+        )
+
+    [size] => Array
+        (
+            [0] => M
+        )
+
+    [size_custom] => Array
+        (
+            [0] => 
+        )
+
+    [pieces] => Array
+        (
+            [0] => 1
+        )
+
+    [volume] => Array
+        (
+            [0] => 12.00
+        )
+
+    [value] => Array
+        (
+            [0] => 1.00
+        )
+
+    [origin] => Array
+        (
+            [0] => 1
+        )
+
+    [owner] => Array
+        (
+            [0] => aa
+        )
+
+    [kind] => Array
+        (
+            [0] => van
+        )
+
+    [plate] => Array
+        (
+            [0] => none
+        )
+
+    [engine] => Array
+        (
+            [0] => EN456789 / CH789456
+        )
+
+    [vehicle_value] => Array
+        (
+            [0] => 1.00
+        )
+
+    [driver] => Array
+        (
+            [0] => aaa
+        )
+
+    [equipment] => Array
+        (
+            [0] => Chainsaw - Stihl MS361
+        )
+
+    [equipment_features] => Array
+        (
+            [0] => machine
+        )
+
+    [equipment_value] => Array
+        (
+            [0] => 1.00
+        )
+
+    [equipment_owner] => Array
+        (
+            [0] => aaa
+        )
+
+    [officer] => 	Juan Dela Cruz
+    [witness] => 	Juan Dela Cruz
+    [issue_date] => 2025-09-11
+    [conform] => 	Barangay Captain
+)
+
+[16-Sep-2025 05:38:48 Europe/Berlin] PHP Fatal error:  Uncaught Error: mysqli_stmt::bind_param(): Argument #4 cannot be passed by reference in C:\xampp\htdocs\LogTrackmain\admin\update_log.php:94
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\LogTrackmain\admin\update_log.php on line 94
+[16-Sep-2025 05:43:59 Europe/Berlin] Incoming POST to update_log.php: Array
+(
+    [id] => 133
+    [date_time] => 2025-09-11T21:39
+    [district_id] => 1
+    [municipality_id] => 2
+    [barangay_id] => 181
+    [offense_category_id] => 4
+    [offense_type_id] => 13
+    [offense_custom] => Community-Based & Sustainable Forestry, EO 23 – Logging moratorium violation (natural forests)
+    [remarks] => jkjk
+    [status] => Closed
+    [species_form] => Array
+        (
+            [0] => Batikuling
+        )
+
+    [species_custom] => Array
+        (
+            [0] => 
+        )
+
+    [form] => Array
+        (
+            [0] => Round Logs
+        )
+
+    [form_custom] => Array
+        (
+            [0] => 
+        )
+
+    [size] => Array
+        (
+            [0] => M
+        )
+
+    [size_custom] => Array
+        (
+            [0] => 
+        )
+
+    [pieces] => Array
+        (
+            [0] => 1
+        )
+
+    [volume] => Array
+        (
+            [0] => 12.00
+        )
+
+    [value] => Array
+        (
+            [0] => 1.00
+        )
+
+    [origin] => Array
+        (
+            [0] => 1
+        )
+
+    [owner] => Array
+        (
+            [0] => aa
+        )
+
+    [kind] => Array
+        (
+            [0] => van
+        )
+
+    [plate] => Array
+        (
+            [0] => none
+        )
+
+    [engine] => Array
+        (
+            [0] => EN456789 / CH789456
+        )
+
+    [vehicle_value] => Array
+        (
+            [0] => 1.00
+        )
+
+    [driver] => Array
+        (
+            [0] => aaa
+        )
+
+    [equipment] => Array
+        (
+            [0] => Chainsaw - Stihl MS361
+        )
+
+    [equipment_features] => Array
+        (
+            [0] => machine
+        )
+
+    [equipment_value] => Array
+        (
+            [0] => 1.00
+        )
+
+    [equipment_owner] => Array
+        (
+            [0] => aaa
+        )
+
+    [officer] => 	Juan Dela Cruz
+    [witness] => 	Juan Dela Cruz
+    [issue_date] => 2025-09-11
+    [conform] => 	Barangay Captain
+)
+
+[16-Sep-2025 05:43:59 Europe/Berlin] Update error: Unknown column 'owner_info' in 'field list'
+✅ QR Generated: C:\xampp\htdocs\LogTrackmain\inc/../assets/qrcodes/134.png
+[16-Sep-2025 05:49:06 Europe/Berlin] Incoming POST to update_log.php: Array
+(
+    [id] => 134
+    [date_time] => 2025-09-16T11:48
+    [district_id] => 1
+    [municipality_id] => 2
+    [barangay_id] => 194
+    [offense_category_id] => 2
+    [offense_type_id] => 8
+    [offense_custom] => RA 9175 – Chainsaw Act (2002), Sec. 7(c) – Tampering engine/serial number
+    [remarks] => jjk
+    [status] => Active
+    [species_form] => Array
+        (
+            [0] => Narra
+        )
+
+    [species_custom] => Array
+        (
+            [0] => 
+        )
+
+    [form] => Array
+        (
+            [0] => Round Logs
+        )
+
+    [form_custom] => Array
+        (
+            [0] => 
+        )
+
+    [size] => Array
+        (
+            [0] => L
+        )
+
+    [size_custom] => Array
+        (
+            [0] => 
+        )
+
+    [pieces] => Array
+        (
+            [0] => 1
+        )
+
+    [volume] => Array
+        (
+            [0] => 12.00
+        )
+
+    [value] => Array
+        (
+            [0] => 1.00
+        )
+
+    [origin] => Array
+        (
+            [0] => 1
+        )
+
+    [owner] => Array
+        (
+            [0] => k
+        )
+
+    [kind] => Array
+        (
+            [0] => van
+        )
+
+    [plate] => Array
+        (
+            [0] => none
+        )
+
+    [engine] => Array
+        (
+            [0] => EN456789 / CH789456
+        )
+
+    [vehicle_value] => Array
+        (
+            [0] => 1.00
+        )
+
+    [driver] => Array
+        (
+            [0] => kk
+        )
+
+    [equipment] => Array
+        (
+            [0] => Chainsaw - Stihl MS361
+        )
+
+    [equipment_features] => Array
+        (
+            [0] => machine
+        )
+
+    [equipment_value] => Array
+        (
+            [0] => 1.00
+        )
+
+    [equipment_owner] => Array
+        (
+            [0] => k
+        )
+
+    [officer] => 	Juan Dela Cruz
+    [witness] => 	Juan Dela Cruz
+    [issue_date] => 2025-09-11
+    [conform] => 	Barangay Captain
+)
+
+[16-Sep-2025 05:49:06 Europe/Berlin] Update error: Unknown column 'owner_info' in 'field list'
+[16-Sep-2025 15:35:37 Europe/Berlin] Incoming POST to update_log.php: Array
+(
+    [id] => 134
+    [date_time] => 2025-09-16T11:48
+    [district_id] => 1
+    [municipality_id] => 2
+    [barangay_id] => 194
+    [offense_category_id] => 1
+    [offense_type_id] => 8
+    [offense_custom] => RA 9175 – Chainsaw Act (2002), Sec. 7(c) – Tampering engine/serial number
+    [remarks] => jjk
+    [status] => Active
+    [species_form] => Array
+        (
+            [0] => Narra
+        )
+
+    [species_custom] => Array
+        (
+            [0] => 
+        )
+
+    [form] => Array
+        (
+            [0] => Round Logs
+        )
+
+    [form_custom] => Array
+        (
+            [0] => 
+        )
+
+    [size] => Array
+        (
+            [0] => L
+        )
+
+    [size_custom] => Array
+        (
+            [0] => 
+        )
+
+    [pieces] => Array
+        (
+            [0] => 1
+        )
+
+    [volume] => Array
+        (
+            [0] => 12.00
+        )
+
+    [value] => Array
+        (
+            [0] => 1.00
+        )
+
+    [origin] => Array
+        (
+            [0] => 1
+        )
+
+    [owner] => Array
+        (
+            [0] => k
+        )
+
+    [kind] => Array
+        (
+            [0] => van
+        )
+
+    [plate] => Array
+        (
+            [0] => none
+        )
+
+    [engine] => Array
+        (
+            [0] => EN456789 / CH789456
+        )
+
+    [vehicle_value] => Array
+        (
+            [0] => 1.00
+        )
+
+    [driver] => Array
+        (
+            [0] => kk
+        )
+
+    [equipment] => Array
+        (
+            [0] => Chainsaw - Stihl MS361
+        )
+
+    [equipment_features] => Array
+        (
+            [0] => machine
+        )
+
+    [equipment_value] => Array
+        (
+            [0] => 1.00
+        )
+
+    [equipment_owner] => Array
+        (
+            [0] => k
+        )
+
+    [officer] => 	Juan Dela Cruz
+    [witness] => 	Juan Dela Cruz
+    [issue_date] => 2025-09-11
+    [conform] => 	Barangay Captain
+)
+
+[16-Sep-2025 15:35:37 Europe/Berlin] Update error: Unknown column 'owner_info' in 'field list'
+[16-Sep-2025 15:55:14 Europe/Berlin] Incoming POST to update_log.php: Array
+(
+    [id] => 133
+    [date_time] => 2025-09-11T21:39
+    [district_id] => 1
+    [municipality_id] => 2
+    [barangay_id] => 181
+    [offense_category_id] => 4
+    [offense_type_id] => 13
+    [offense_custom] => Community-Based & Sustainable Forestry, EO 23 – Logging moratorium violation (natural forests)
+    [remarks] => jkjk
+    [status] => Closed
+    [species_form] => Array
+        (
+            [0] => Batikuling
+        )
+
+    [species_custom] => Array
+        (
+            [0] => 
+        )
+
+    [form] => Array
+        (
+            [0] => Round Logs
+        )
+
+    [form_custom] => Array
+        (
+            [0] => 
+        )
+
+    [size] => Array
+        (
+            [0] => M
+        )
+
+    [size_custom] => Array
+        (
+            [0] => 
+        )
+
+    [pieces] => Array
+        (
+            [0] => 1
+        )
+
+    [volume] => Array
+        (
+            [0] => 12.00
+        )
+
+    [value] => Array
+        (
+            [0] => 1.00
+        )
+
+    [origin] => Array
+        (
+            [0] => 1
+        )
+
+    [owner] => Array
+        (
+            [0] => aa
+        )
+
+    [kind] => Array
+        (
+            [0] => van
+        )
+
+    [plate] => Array
+        (
+            [0] => none
+        )
+
+    [engine] => Array
+        (
+            [0] => EN456789 / CH789456
+        )
+
+    [vehicle_value] => Array
+        (
+            [0] => 1.00
+        )
+
+    [driver] => Array
+        (
+            [0] => aaa
+        )
+
+    [equipment] => Array
+        (
+            [0] => Chainsaw - Stihl MS361
+        )
+
+    [equipment_features] => Array
+        (
+            [0] => machine
+        )
+
+    [equipment_value] => Array
+        (
+            [0] => 1.00
+        )
+
+    [equipment_owner] => Array
+        (
+            [0] => <br /><b>Warning</b>:  Undefined array key 
+        )
+
+    [officer] => 	Juan Dela Cruz
+    [witness] => 	Juan Dela Cruz
+    [issue_date] => 2025-09-11
+    [conform] => 	Barangay Captain
+)
+
+[16-Sep-2025 15:55:14 Europe/Berlin] Update error: Unknown column 'owner_info' in 'field list'
+[16-Sep-2025 15:55:17 Europe/Berlin] Incoming POST to update_log.php: Array
+(
+    [id] => 133
+    [date_time] => 2025-09-11T21:39
+    [district_id] => 1
+    [municipality_id] => 2
+    [barangay_id] => 181
+    [offense_category_id] => 4
+    [offense_type_id] => 13
+    [offense_custom] => Community-Based & Sustainable Forestry, EO 23 – Logging moratorium violation (natural forests)
+    [remarks] => jkjk
+    [status] => Closed
+    [species_form] => Array
+        (
+            [0] => Batikuling
+        )
+
+    [species_custom] => Array
+        (
+            [0] => 
+        )
+
+    [form] => Array
+        (
+            [0] => Round Logs
+        )
+
+    [form_custom] => Array
+        (
+            [0] => 
+        )
+
+    [size] => Array
+        (
+            [0] => M
+        )
+
+    [size_custom] => Array
+        (
+            [0] => 
+        )
+
+    [pieces] => Array
+        (
+            [0] => 1
+        )
+
+    [volume] => Array
+        (
+            [0] => 12.00
+        )
+
+    [value] => Array
+        (
+            [0] => 1.00
+        )
+
+    [origin] => Array
+        (
+            [0] => 1
+        )
+
+    [owner] => Array
+        (
+            [0] => aa
+        )
+
+    [kind] => Array
+        (
+            [0] => van
+        )
+
+    [plate] => Array
+        (
+            [0] => none
+        )
+
+    [engine] => Array
+        (
+            [0] => EN456789 / CH789456
+        )
+
+    [vehicle_value] => Array
+        (
+            [0] => 1.00
+        )
+
+    [driver] => Array
+        (
+            [0] => aaa
+        )
+
+    [equipment] => Array
+        (
+            [0] => Chainsaw - Stihl MS361
+        )
+
+    [equipment_features] => Array
+        (
+            [0] => machine
+        )
+
+    [equipment_value] => Array
+        (
+            [0] => 1.00
+        )
+
+    [equipment_owner] => Array
+        (
+            [0] => <br /><b>Warning</b>:  Undefined array key 
+        )
+
+    [officer] => 	Juan Dela Cruz
+    [witness] => 	Juan Dela Cruz
+    [issue_date] => 2025-09-11
+    [conform] => 	Barangay Captain
+)
+
+[16-Sep-2025 15:55:17 Europe/Berlin] Update error: Unknown column 'owner_info' in 'field list'
+[16-Sep-2025 16:08:07 Europe/Berlin] Incoming POST to update_log.php: Array
+(
+    [id] => 132
+    [date_time] => 2025-09-11T21:34
+    [district_id] => 2
+    [municipality_id] => 10
+    [barangay_id] => 138
+    [offense_category_id] => 4
+    [offense_type_id] => 13
+    [offense_custom] => Community-Based & Sustainable Forestry, EO 23 – Logging moratorium violation (natural forests)
+    [remarks] => qwqw
+    [status] => Closed
+    [species_form] => Array
+        (
+            [0] => Narra
+        )
+
+    [species_custom] => Array
+        (
+            [0] => 
+        )
+
+    [form] => Array
+        (
+            [0] => Round Logs
+        )
+
+    [form_custom] => Array
+        (
+            [0] => 
+        )
+
+    [size] => Array
+        (
+            [0] => L
+        )
+
+    [size_custom] => Array
+        (
+            [0] => 
+        )
+
+    [pieces] => Array
+        (
+            [0] => 1
+        )
+
+    [volume] => Array
+        (
+            [0] => 12.00
+        )
+
+    [value] => Array
+        (
+            [0] => 1.00
+        )
+
+    [origin] => Array
+        (
+            [0] => 1
+        )
+
+    [owner] => Array
+        (
+            [0] => q
+        )
+
+    [kind] => Array
+        (
+            [0] => van
+        )
+
+    [plate] => Array
+        (
+            [0] => none
+        )
+
+    [engine] => Array
+        (
+            [0] => EN456789 / CH789456
+        )
+
+    [vehicle_value] => Array
+        (
+            [0] => 1.00
+        )
+
+    [driver] => Array
+        (
+            [0] => q
+        )
+
+    [equipment] => Array
+        (
+            [0] => Chainsaw - Stihl MS361
+        )
+
+    [equipment_features] => Array
+        (
+            [0] => machine
+        )
+
+    [equipment_value] => Array
+        (
+            [0] => 1.00
+        )
+
+    [equipment_owner] => Array
+        (
+            [0] => <br /><b>Warning</b>:  Undefined array key 
+        )
+
+    [officer] => 	Juan Dela Cruz
+    [witness] => 	Juan Dela Cruz
+    [issue_date] => 2025-09-11
+    [conform] => 	Barangay Captain
+)
+
+[16-Sep-2025 16:59:07 Europe/Berlin] Incoming POST to update_log.php: Array
+(
+    [id] => 132
+    [date_time] => 2025-09-11T21:34
+    [district_id] => 2
+    [municipality_id] => 10
+    [barangay_id] => 138
+    [offense_category_id] => 4
+    [offense_type_id] => 13
+    [offense_custom] => Community-Based & Sustainable Forestry, EO 23 – Logging moratorium violation (natural forests)
+    [remarks] => qwqw
+    [status] => Closed
+    [species_form] => Array
+        (
+            [0] => Narra
+        )
+
+    [species_custom] => Array
+        (
+            [0] => 
+        )
+
+    [form] => Array
+        (
+            [0] => Round Logs
+        )
+
+    [form_custom] => Array
+        (
+            [0] => 
+        )
+
+    [size] => Array
+        (
+            [0] => L
+        )
+
+    [size_custom] => Array
+        (
+            [0] => 
+        )
+
+    [pieces] => Array
+        (
+            [0] => 1
+        )
+
+    [volume] => Array
+        (
+            [0] => 12.00
+        )
+
+    [value] => Array
+        (
+            [0] => 1.00
+        )
+
+    [origin] => Array
+        (
+            [0] => 1
+        )
+
+    [owner] => Array
+        (
+            [0] => q
+        )
+
+    [kind] => Array
+        (
+            [0] => van
+        )
+
+    [plate] => Array
+        (
+            [0] => none
+        )
+
+    [engine] => Array
+        (
+            [0] => EN456789 / CH789456
+        )
+
+    [vehicle_value] => Array
+        (
+            [0] => 1.00
+        )
+
+    [driver] => Array
+        (
+            [0] => q
+        )
+
+    [equipment] => Array
+        (
+            [0] => Chainsaw - Stihl MS361
+        )
+
+    [equipment_features] => Array
+        (
+            [0] => machine
+        )
+
+    [equipment_value] => Array
+        (
+            [0] => 1.00
+        )
+
+    [equipment_owner] => Array
+        (
+            [0] => <br /><b>Warning</b>:  Undefined array key 
+        )
+
+    [officer] => 	Juan Dela Cruz
+    [witness] => 	Juan Dela Cruz
+    [issue_date] => 2025-09-11
+    [conform] => 	Barangay Captain
+)
+
+[16-Sep-2025 16:59:22 Europe/Berlin] Incoming POST to update_log.php: Array
+(
+    [id] => 132
+    [date_time] => 2025-09-11T21:34
+    [district_id] => 2
+    [municipality_id] => 11
+    [barangay_id] => 138
+    [offense_category_id] => 4
+    [offense_type_id] => 13
+    [offense_custom] => Community-Based & Sustainable Forestry, EO 23 – Logging moratorium violation (natural forests)
+    [remarks] => qwqw
+    [status] => Closed
+    [species_form] => Array
+        (
+            [0] => Narra
+        )
+
+    [species_custom] => Array
+        (
+            [0] => 
+        )
+
+    [form] => Array
+        (
+            [0] => Round Logs
+        )
+
+    [form_custom] => Array
+        (
+            [0] => 
+        )
+
+    [size] => Array
+        (
+            [0] => L
+        )
+
+    [size_custom] => Array
+        (
+            [0] => 
+        )
+
+    [pieces] => Array
+        (
+            [0] => 1
+        )
+
+    [volume] => Array
+        (
+            [0] => 12.00
+        )
+
+    [value] => Array
+        (
+            [0] => 1.00
+        )
+
+    [origin] => Array
+        (
+            [0] => 1
+        )
+
+    [owner] => Array
+        (
+            [0] => q
+        )
+
+    [kind] => Array
+        (
+            [0] => van
+        )
+
+    [plate] => Array
+        (
+            [0] => none
+        )
+
+    [engine] => Array
+        (
+            [0] => EN456789 / CH789456
+        )
+
+    [vehicle_value] => Array
+        (
+            [0] => 1.00
+        )
+
+    [driver] => Array
+        (
+            [0] => q
+        )
+
+    [equipment] => Array
+        (
+            [0] => Chainsaw - Stihl MS361
+        )
+
+    [equipment_features] => Array
+        (
+            [0] => machine
+        )
+
+    [equipment_value] => Array
+        (
+            [0] => 1.00
+        )
+
+    [equipment_owner] => Array
+        (
+            [0] => <br /><b>Warning</b>:  Undefined array key 
+        )
+
+    [officer] => 	Juan Dela Cruz
+    [witness] => 	Juan Dela Cruz
+    [issue_date] => 2025-09-11
+    [conform] => 	Barangay Captain
+)
+
+[16-Sep-2025 17:53:24 Europe/Berlin] Incoming POST to update_log.php: Array
+(
+    [id] => 133
+    [date_time] => 2025-09-11T21:39
+    [district_id] => 5
+    [municipality_id] => 2
+    [barangay_id] => 181
+    [offense_category_id] => 4
+    [offense_type_id] => 13
+    [offense_custom] => Community-Based & Sustainable Forestry, EO 23 – Logging moratorium violation (natural forests)
+    [remarks] => jkjk
+    [status] => Active
+    [species_form] => Array
+        (
+            [0] => Batikuling
+        )
+
+    [species_custom] => Array
+        (
+            [0] => 
+        )
+
+    [form] => Array
+        (
+            [0] => Round Logs
+        )
+
+    [form_custom] => Array
+        (
+            [0] => 
+        )
+
+    [size] => Array
+        (
+            [0] => M
+        )
+
+    [size_custom] => Array
+        (
+            [0] => 
+        )
+
+    [pieces] => Array
+        (
+            [0] => 1
+        )
+
+    [volume] => Array
+        (
+            [0] => 12.00
+        )
+
+    [value] => Array
+        (
+            [0] => 1.00
+        )
+
+    [origin] => Array
+        (
+            [0] => 1
+        )
+
+    [owner] => Array
+        (
+            [0] => aa
+        )
+
+    [kind] => Array
+        (
+            [0] => van
+        )
+
+    [plate] => Array
+        (
+            [0] => none
+        )
+
+    [engine] => Array
+        (
+            [0] => EN456789 / CH789456
+        )
+
+    [vehicle_value] => Array
+        (
+            [0] => 1.00
+        )
+
+    [driver] => Array
+        (
+            [0] => aaa
+        )
+
+    [equipment] => Array
+        (
+            [0] => Chainsaw - Stihl MS361
+        )
+
+    [equipment_features] => Array
+        (
+            [0] => machine
+        )
+
+    [equipment_value] => Array
+        (
+            [0] => 1.00
+        )
+
+    [equipment_owner] => Array
+        (
+            [0] => <br /><b>Warning</b>:  Undefined array key 
+        )
+
+    [officer] => 	Juan Dela Cruz
+    [witness] => 	Juan Dela Cruz
+    [issue_date] => 2025-09-11
+    [conform] => 	Barangay Captain
+)
+
+[16-Sep-2025 17:54:08 Europe/Berlin] Incoming POST to update_log.php: Array
+(
+    [id] => 132
+    [date_time] => 2025-09-11T21:34
+    [district_id] => 1
+    [municipality_id] => 13
+    [barangay_id] => 434
+    [offense_category_id] => 4
+    [offense_type_id] => 13
+    [offense_custom] => Community-Based & Sustainable Forestry, EO 23 – Logging moratorium violation (natural forests)
+    [remarks] => qwqw
+    [status] => Active
+    [species_form] => Array
+        (
+            [0] => Narra
+        )
+
+    [species_custom] => Array
+        (
+            [0] => 
+        )
+
+    [form] => Array
+        (
+            [0] => Round Logs
+        )
+
+    [form_custom] => Array
+        (
+            [0] => 
+        )
+
+    [size] => Array
+        (
+            [0] => L
+        )
+
+    [size_custom] => Array
+        (
+            [0] => 
+        )
+
+    [pieces] => Array
+        (
+            [0] => 1
+        )
+
+    [volume] => Array
+        (
+            [0] => 12.00
+        )
+
+    [value] => Array
+        (
+            [0] => 1.00
+        )
+
+    [origin] => Array
+        (
+            [0] => 1
+        )
+
+    [owner] => Array
+        (
+            [0] => q
+        )
+
+    [kind] => Array
+        (
+            [0] => van
+        )
+
+    [plate] => Array
+        (
+            [0] => none
+        )
+
+    [engine] => Array
+        (
+            [0] => EN456789 / CH789456
+        )
+
+    [vehicle_value] => Array
+        (
+            [0] => 1.00
+        )
+
+    [driver] => Array
+        (
+            [0] => q
+        )
+
+    [equipment] => Array
+        (
+            [0] => Chainsaw - Stihl MS361
+        )
+
+    [equipment_features] => Array
+        (
+            [0] => machine
+        )
+
+    [equipment_value] => Array
+        (
+            [0] => 1.00
+        )
+
+    [equipment_owner] => Array
+        (
+            [0] => <br /><b>Warning</b>:  Undefined array key 
+        )
+
+    [officer] => 	Juan Dela Cruz
+    [witness] => 	Juan Dela Cruz
+    [issue_date] => 2025-09-11
+    [conform] => 	Barangay Captain
+)
+
+[16-Sep-2025 17:55:30 Europe/Berlin] Incoming POST to update_log.php: Array
+(
+    [id] => 134
+    [date_time] => 2025-09-16T11:48
+    [district_id] => 1
+    [municipality_id] => 2
+    [barangay_id] => 194
+    [offense_category_id] => 2
+    [offense_type_id] => 8
+    [offense_custom] => RA 9175 – Chainsaw Act (2002), Sec. 7(c) – Tampering engine/serial number
+    [remarks] => jj
+    [status] => Closed
+    [species_form] => Array
+        (
+            [0] => Narra
+        )
+
+    [species_custom] => Array
+        (
+            [0] => 
+        )
+
+    [form] => Array
+        (
+            [0] => Round Logs
+        )
+
+    [form_custom] => Array
+        (
+            [0] => 
+        )
+
+    [size] => Array
+        (
+            [0] => L
+        )
+
+    [size_custom] => Array
+        (
+            [0] => 
+        )
+
+    [pieces] => Array
+        (
+            [0] => 1
+        )
+
+    [volume] => Array
+        (
+            [0] => 12.00
+        )
+
+    [value] => Array
+        (
+            [0] => 1.00
+        )
+
+    [origin] => Array
+        (
+            [0] => 1
+        )
+
+    [owner] => Array
+        (
+            [0] => k
+        )
+
+    [kind] => Array
+        (
+            [0] => van
+        )
+
+    [plate] => Array
+        (
+            [0] => none
+        )
+
+    [engine] => Array
+        (
+            [0] => EN456789 / CH789456
+        )
+
+    [vehicle_value] => Array
+        (
+            [0] => 1.00
+        )
+
+    [driver] => Array
+        (
+            [0] => k
+        )
+
+    [equipment] => Array
+        (
+            [0] => Chainsaw - Stihl MS361
+        )
+
+    [equipment_features] => Array
+        (
+            [0] => machine
+        )
+
+    [equipment_value] => Array
+        (
+            [0] => 1.00
+        )
+
+    [equipment_owner] => Array
+        (
+            [0] => k
+        )
+
+    [officer] => 	Juan Dela Cruz
+    [witness] => 	Juan Dela Cruz
+    [issue_date] => 2025-09-11
+    [conform] => 	Barangay Captain
+)
+
+[17-Sep-2025 15:28:51 Europe/Berlin] Incoming POST to update_log.php: Array
+(
+    [id] => 134
+    [date_time] => 2025-09-16T11:48
+    [district_id] => 1
+    [municipality_id] => 2
+    [barangay_id] => 194
+    [offense_category_id] => 2
+    [offense_type_id] => 8
+    [offense_custom] => RA 9175 – Chainsaw Act (2002), Sec. 7(c) – Tampering engine/serial number
+    [remarks] => jjk
+    [status] => Closed
+    [species_form] => Array
+        (
+            [0] => Narra
+        )
+
+    [species_custom] => Array
+        (
+            [0] => 
+        )
+
+    [form] => Array
+        (
+            [0] => Round Logs
+        )
+
+    [form_custom] => Array
+        (
+            [0] => 
+        )
+
+    [size] => Array
+        (
+            [0] => L
+        )
+
+    [size_custom] => Array
+        (
+            [0] => 
+        )
+
+    [pieces] => Array
+        (
+            [0] => 1
+        )
+
+    [volume] => Array
+        (
+            [0] => 12.00
+        )
+
+    [value] => Array
+        (
+            [0] => 1.00
+        )
+
+    [origin] => Array
+        (
+            [0] => 1
+        )
+
+    [owner] => Array
+        (
+            [0] => k
+        )
+
+    [kind] => Array
+        (
+            [0] => van
+        )
+
+    [plate] => Array
+        (
+            [0] => none
+        )
+
+    [engine] => Array
+        (
+            [0] => EN456789 / CH789456
+        )
+
+    [vehicle_value] => Array
+        (
+            [0] => 1.00
+        )
+
+    [driver] => Array
+        (
+            [0] => k
+        )
+
+    [equipment] => Array
+        (
+            [0] => Chainsaw - Stihl MS361
+        )
+
+    [equipment_features] => Array
+        (
+            [0] => machine
+        )
+
+    [equipment_value] => Array
+        (
+            [0] => 1.00
+        )
+
+    [equipment_owner] => Array
+        (
+            [0] => k
+        )
+
+    [officer] => 	Juan Dela Cruz
+    [witness] => 	Juan Dela Cruz
+    [issue_date] => 2025-09-11
+    [conform] => 	Barangay Captain
+)
+
+[17-Sep-2025 15:29:35 Europe/Berlin] Incoming POST to update_log.php: Array
+(
+    [id] => 133
+    [date_time] => 2025-09-11T21:39
+    [district_id] => 5
+    [municipality_id] => 26
+    [barangay_id] => 181
+    [offense_category_id] => 4
+    [offense_type_id] => 13
+    [offense_custom] => Community-Based & Sustainable Forestry, EO 23 – Logging moratorium violation (natural forests)
+    [remarks] => jkjk
+    [status] => Closed
+    [species_form] => Array
+        (
+            [0] => Batikuling
+        )
+
+    [species_custom] => Array
+        (
+            [0] => 
+        )
+
+    [form] => Array
+        (
+            [0] => Round Logs
+        )
+
+    [form_custom] => Array
+        (
+            [0] => 
+        )
+
+    [size] => Array
+        (
+            [0] => M
+        )
+
+    [size_custom] => Array
+        (
+            [0] => 
+        )
+
+    [pieces] => Array
+        (
+            [0] => 1
+        )
+
+    [volume] => Array
+        (
+            [0] => 12.00
+        )
+
+    [value] => Array
+        (
+            [0] => 1.00
+        )
+
+    [origin] => Array
+        (
+            [0] => 1
+        )
+
+    [owner] => Array
+        (
+            [0] => aa
+        )
+
+    [kind] => Array
+        (
+            [0] => van
+        )
+
+    [plate] => Array
+        (
+            [0] => none
+        )
+
+    [engine] => Array
+        (
+            [0] => EN456789 / CH789456
+        )
+
+    [vehicle_value] => Array
+        (
+            [0] => 1.00
+        )
+
+    [driver] => Array
+        (
+            [0] => aaa
+        )
+
+    [equipment] => Array
+        (
+            [0] => Chainsaw - Stihl MS361
+        )
+
+    [equipment_features] => Array
+        (
+            [0] => machine
+        )
+
+    [equipment_value] => Array
+        (
+            [0] => 1.00
+        )
+
+    [equipment_owner] => Array
+        (
+            [0] => <br /><b>Warning</b>:  Undefined array key 
+        )
+
+    [officer] => 	Juan Dela Cruz
+    [witness] => 	Juan Dela Cruz
+    [issue_date] => 2025-09-11
+    [conform] => 	Barangay Captain
+)
+
+[17-Sep-2025 15:30:48 Europe/Berlin] Incoming POST to update_log.php: Array
+(
+    [id] => 133
+    [date_time] => 2025-09-11T21:39
+    [district_id] => 1
+    [municipality_id] => 26
+    [barangay_id] => 106
+    [offense_category_id] => 4
+    [offense_type_id] => 13
+    [offense_custom] => Community-Based & Sustainable Forestry, EO 23 – Logging moratorium violation (natural forests)
+    [remarks] => jkjk
+    [status] => Closed
+    [species_form] => Array
+        (
+            [0] => Batikuling
+        )
+
+    [species_custom] => Array
+        (
+            [0] => 
+        )
+
+    [form] => Array
+        (
+            [0] => Round Logs
+        )
+
+    [form_custom] => Array
+        (
+            [0] => 
+        )
+
+    [size] => Array
+        (
+            [0] => M
+        )
+
+    [size_custom] => Array
+        (
+            [0] => 
+        )
+
+    [pieces] => Array
+        (
+            [0] => 1
+        )
+
+    [volume] => Array
+        (
+            [0] => 12.00
+        )
+
+    [value] => Array
+        (
+            [0] => 1.00
+        )
+
+    [origin] => Array
+        (
+            [0] => 1
+        )
+
+    [owner] => Array
+        (
+            [0] => aa
+        )
+
+    [kind] => Array
+        (
+            [0] => van
+        )
+
+    [plate] => Array
+        (
+            [0] => none
+        )
+
+    [engine] => Array
+        (
+            [0] => EN456789 / CH789456
+        )
+
+    [vehicle_value] => Array
+        (
+            [0] => 1.00
+        )
+
+    [driver] => Array
+        (
+            [0] => aaa
+        )
+
+    [equipment] => Array
+        (
+            [0] => Chainsaw - Stihl MS361
+        )
+
+    [equipment_features] => Array
+        (
+            [0] => machine
+        )
+
+    [equipment_value] => Array
+        (
+            [0] => 1.00
+        )
+
+    [equipment_owner] => Array
+        (
+            [0] => <br /><b>Warning</b>:  Undefined array key 
+        )
+
+    [officer] => 	Juan Dela Cruz
+    [witness] => 	Juan Dela Cruz
+    [issue_date] => 2025-09-11
+    [conform] => 	Barangay Captain
+)
+
+[17-Sep-2025 15:31:03 Europe/Berlin] Incoming POST to update_log.php: Array
+(
+    [id] => 133
+    [date_time] => 2025-09-11T21:39
+    [district_id] => 1
+    [municipality_id] => 2
+    [barangay_id] => 106
+    [offense_category_id] => 4
+    [offense_type_id] => 13
+    [offense_custom] => Community-Based & Sustainable Forestry, EO 23 – Logging moratorium violation (natural forests)
+    [remarks] => jkjk
+    [status] => Closed
+    [species_form] => Array
+        (
+            [0] => Batikuling
+        )
+
+    [species_custom] => Array
+        (
+            [0] => 
+        )
+
+    [form] => Array
+        (
+            [0] => Round Logs
+        )
+
+    [form_custom] => Array
+        (
+            [0] => 
+        )
+
+    [size] => Array
+        (
+            [0] => M
+        )
+
+    [size_custom] => Array
+        (
+            [0] => 
+        )
+
+    [pieces] => Array
+        (
+            [0] => 1
+        )
+
+    [volume] => Array
+        (
+            [0] => 12.00
+        )
+
+    [value] => Array
+        (
+            [0] => 1.00
+        )
+
+    [origin] => Array
+        (
+            [0] => 1
+        )
+
+    [owner] => Array
+        (
+            [0] => aa
+        )
+
+    [kind] => Array
+        (
+            [0] => van
+        )
+
+    [plate] => Array
+        (
+            [0] => none
+        )
+
+    [engine] => Array
+        (
+            [0] => EN456789 / CH789456
+        )
+
+    [vehicle_value] => Array
+        (
+            [0] => 1.00
+        )
+
+    [driver] => Array
+        (
+            [0] => aaa
+        )
+
+    [equipment] => Array
+        (
+            [0] => Chainsaw - Stihl MS361
+        )
+
+    [equipment_features] => Array
+        (
+            [0] => machine
+        )
+
+    [equipment_value] => Array
+        (
+            [0] => 1.00
+        )
+
+    [equipment_owner] => Array
+        (
+            [0] => <br /><b>Warning</b>:  Undefined array key 
+        )
+
+    [officer] => 	Juan Dela Cruz
+    [witness] => 	Juan Dela Cruz
+    [issue_date] => 2025-09-11
+    [conform] => 	Barangay Captain
+)
+
+[17-Sep-2025 15:31:15 Europe/Berlin] Incoming POST to update_log.php: Array
+(
+    [id] => 133
+    [date_time] => 2025-09-11T21:39
+    [district_id] => 1
+    [municipality_id] => 2
+    [barangay_id] => 181
+    [offense_category_id] => 4
+    [offense_type_id] => 13
+    [offense_custom] => Community-Based & Sustainable Forestry, EO 23 – Logging moratorium violation (natural forests)
+    [remarks] => jkjk
+    [status] => Closed
+    [species_form] => Array
+        (
+            [0] => Batikuling
+        )
+
+    [species_custom] => Array
+        (
+            [0] => 
+        )
+
+    [form] => Array
+        (
+            [0] => Round Logs
+        )
+
+    [form_custom] => Array
+        (
+            [0] => 
+        )
+
+    [size] => Array
+        (
+            [0] => M
+        )
+
+    [size_custom] => Array
+        (
+            [0] => 
+        )
+
+    [pieces] => Array
+        (
+            [0] => 1
+        )
+
+    [volume] => Array
+        (
+            [0] => 12.00
+        )
+
+    [value] => Array
+        (
+            [0] => 1.00
+        )
+
+    [origin] => Array
+        (
+            [0] => 1
+        )
+
+    [owner] => Array
+        (
+            [0] => aa
+        )
+
+    [kind] => Array
+        (
+            [0] => van
+        )
+
+    [plate] => Array
+        (
+            [0] => none
+        )
+
+    [engine] => Array
+        (
+            [0] => EN456789 / CH789456
+        )
+
+    [vehicle_value] => Array
+        (
+            [0] => 1.00
+        )
+
+    [driver] => Array
+        (
+            [0] => aaa
+        )
+
+    [equipment] => Array
+        (
+            [0] => Chainsaw - Stihl MS361
+        )
+
+    [equipment_features] => Array
+        (
+            [0] => machine
+        )
+
+    [equipment_value] => Array
+        (
+            [0] => 1.00
+        )
+
+    [equipment_owner] => Array
+        (
+            [0] => <br /><b>Warning</b>:  Undefined array key 
+        )
+
+    [officer] => 	Juan Dela Cruz
+    [witness] => 	Juan Dela Cruz
+    [issue_date] => 2025-09-11
+    [conform] => 	Barangay Captain
+)
+
+[17-Sep-2025 15:37:38 Europe/Berlin] Incoming POST to update_log.php: Array
+(
+    [id] => 133
+    [date_time] => 2025-09-11T21:39
+    [district_id] => 1
+    [municipality_id] => 1
+    [barangay_id] => 181
+    [offense_category_id] => 4
+    [offense_type_id] => 13
+    [offense_custom] => Community-Based & Sustainable Forestry, EO 23 – Logging moratorium violation (natural forests)
+    [remarks] => jkjk
+    [status] => Closed
+    [species_form] => Array
+        (
+            [0] => Batikuling
+        )
+
+    [species_custom] => Array
+        (
+            [0] => 
+        )
+
+    [form] => Array
+        (
+            [0] => Round Logs
+        )
+
+    [form_custom] => Array
+        (
+            [0] => 
+        )
+
+    [size] => Array
+        (
+            [0] => M
+        )
+
+    [size_custom] => Array
+        (
+            [0] => 
+        )
+
+    [pieces] => Array
+        (
+            [0] => 1
+        )
+
+    [volume] => Array
+        (
+            [0] => 12.00
+        )
+
+    [value] => Array
+        (
+            [0] => 1.00
+        )
+
+    [origin] => Array
+        (
+            [0] => 1
+        )
+
+    [owner] => Array
+        (
+            [0] => aa
+        )
+
+    [kind] => Array
+        (
+            [0] => van
+        )
+
+    [plate] => Array
+        (
+            [0] => none
+        )
+
+    [engine] => Array
+        (
+            [0] => EN456789 / CH789456
+        )
+
+    [vehicle_value] => Array
+        (
+            [0] => 1.00
+        )
+
+    [driver] => Array
+        (
+            [0] => aaa
+        )
+
+    [equipment] => Array
+        (
+            [0] => Chainsaw - Stihl MS361
+        )
+
+    [equipment_features] => Array
+        (
+            [0] => machine
+        )
+
+    [equipment_value] => Array
+        (
+            [0] => 1.00
+        )
+
+    [equipment_owner] => Array
+        (
+            [0] => <br /><b>Warning</b>:  Undefined array key 
+        )
+
+    [officer] => 	Juan Dela Cruz
+    [witness] => 	Juan Dela Cruz
+    [issue_date] => 2025-09-11
+    [conform] => 	Barangay Captain
+)
+
+[17-Sep-2025 15:37:50 Europe/Berlin] Incoming POST to update_log.php: Array
+(
+    [id] => 133
+    [date_time] => 2025-09-11T21:39
+    [district_id] => 1
+    [municipality_id] => 2
+    [barangay_id] => 181
+    [offense_category_id] => 4
+    [offense_type_id] => 13
+    [offense_custom] => Community-Based & Sustainable Forestry, EO 23 – Logging moratorium violation (natural forests)
+    [remarks] => jkjk
+    [status] => Closed
+    [species_form] => Array
+        (
+            [0] => Batikuling
+        )
+
+    [species_custom] => Array
+        (
+            [0] => 
+        )
+
+    [form] => Array
+        (
+            [0] => Round Logs
+        )
+
+    [form_custom] => Array
+        (
+            [0] => 
+        )
+
+    [size] => Array
+        (
+            [0] => M
+        )
+
+    [size_custom] => Array
+        (
+            [0] => 
+        )
+
+    [pieces] => Array
+        (
+            [0] => 1
+        )
+
+    [volume] => Array
+        (
+            [0] => 12.00
+        )
+
+    [value] => Array
+        (
+            [0] => 1.00
+        )
+
+    [origin] => Array
+        (
+            [0] => 1
+        )
+
+    [owner] => Array
+        (
+            [0] => aa
+        )
+
+    [kind] => Array
+        (
+            [0] => van
+        )
+
+    [plate] => Array
+        (
+            [0] => none
+        )
+
+    [engine] => Array
+        (
+            [0] => EN456789 / CH789456
+        )
+
+    [vehicle_value] => Array
+        (
+            [0] => 1.00
+        )
+
+    [driver] => Array
+        (
+            [0] => aaa
+        )
+
+    [equipment] => Array
+        (
+            [0] => Chainsaw - Stihl MS361
+        )
+
+    [equipment_features] => Array
+        (
+            [0] => machine
+        )
+
+    [equipment_value] => Array
+        (
+            [0] => 1.00
+        )
+
+    [equipment_owner] => Array
+        (
+            [0] => <br /><b>Warning</b>:  Undefined array key 
+        )
+
+    [officer] => 	Juan Dela Cruz
+    [witness] => 	Juan Dela Cruz
+    [issue_date] => 2025-09-11
+    [conform] => 	Barangay Captain
+)
+
+[17-Sep-2025 16:06:17 Europe/Berlin] Incoming POST to update_log.php: Array
+(
+    [id] => 133
+    [date_time] => 2025-09-11T21:39
+    [district_id] => 2
+    [municipality_id] => 2
+    [barangay_id] => 181
+    [offense_category_id] => 4
+    [offense_type_id] => 13
+    [offense_custom] => Community-Based & Sustainable Forestry, EO 23 – Logging moratorium violation (natural forests)
+    [remarks] => jkjk
+    [status] => Closed
+    [species_form] => Array
+        (
+            [0] => Batikuling
+        )
+
+    [species_custom] => Array
+        (
+            [0] => 
+        )
+
+    [form] => Array
+        (
+            [0] => Round Logs
+        )
+
+    [form_custom] => Array
+        (
+            [0] => 
+        )
+
+    [size] => Array
+        (
+            [0] => M
+        )
+
+    [size_custom] => Array
+        (
+            [0] => 
+        )
+
+    [pieces] => Array
+        (
+            [0] => 1
+        )
+
+    [volume] => Array
+        (
+            [0] => 12.00
+        )
+
+    [value] => Array
+        (
+            [0] => 1.00
+        )
+
+    [origin] => Array
+        (
+            [0] => 1
+        )
+
+    [owner] => Array
+        (
+            [0] => aa
+        )
+
+    [kind] => Array
+        (
+            [0] => van
+        )
+
+    [plate] => Array
+        (
+            [0] => none
+        )
+
+    [engine] => Array
+        (
+            [0] => EN456789 / CH789456
+        )
+
+    [vehicle_value] => Array
+        (
+            [0] => 1.00
+        )
+
+    [driver] => Array
+        (
+            [0] => aaa
+        )
+
+    [equipment] => Array
+        (
+            [0] => Chainsaw - Stihl MS361
+        )
+
+    [equipment_features] => Array
+        (
+            [0] => machine
+        )
+
+    [equipment_value] => Array
+        (
+            [0] => 1.00
+        )
+
+    [equipment_owner] => Array
+        (
+            [0] => <br /><b>Warning</b>:  Undefined array key 
+        )
+
+    [officer] => 	Juan Dela Cruz
+    [witness] => 	Juan Dela Cruz
+    [issue_date] => 2025-09-11
+    [conform] => 	Barangay Captain
+)
+
+[17-Sep-2025 16:06:54 Europe/Berlin] Incoming POST to update_log.php: Array
+(
+    [id] => 133
+    [date_time] => 2025-09-11T21:39
+    [district_id] => 1
+    [municipality_id] => 15
+    [barangay_id] => 181
+    [offense_category_id] => 4
+    [offense_type_id] => 13
+    [offense_custom] => Community-Based & Sustainable Forestry, EO 23 – Logging moratorium violation (natural forests)
+    [remarks] => jkjk
+    [status] => Closed
+    [species_form] => Array
+        (
+            [0] => Batikuling
+        )
+
+    [species_custom] => Array
+        (
+            [0] => 
+        )
+
+    [form] => Array
+        (
+            [0] => Round Logs
+        )
+
+    [form_custom] => Array
+        (
+            [0] => 
+        )
+
+    [size] => Array
+        (
+            [0] => M
+        )
+
+    [size_custom] => Array
+        (
+            [0] => 
+        )
+
+    [pieces] => Array
+        (
+            [0] => 1
+        )
+
+    [volume] => Array
+        (
+            [0] => 12.00
+        )
+
+    [value] => Array
+        (
+            [0] => 1.00
+        )
+
+    [origin] => Array
+        (
+            [0] => 1
+        )
+
+    [owner] => Array
+        (
+            [0] => aa
+        )
+
+    [kind] => Array
+        (
+            [0] => van
+        )
+
+    [plate] => Array
+        (
+            [0] => none
+        )
+
+    [engine] => Array
+        (
+            [0] => EN456789 / CH789456
+        )
+
+    [vehicle_value] => Array
+        (
+            [0] => 1.00
+        )
+
+    [driver] => Array
+        (
+            [0] => aaa
+        )
+
+    [equipment] => Array
+        (
+            [0] => Chainsaw - Stihl MS361
+        )
+
+    [equipment_features] => Array
+        (
+            [0] => machine
+        )
+
+    [equipment_value] => Array
+        (
+            [0] => 1.00
+        )
+
+    [equipment_owner] => Array
+        (
+            [0] => <br /><b>Warning</b>:  Undefined array key 
+        )
+
+    [officer] => 	Juan Dela Cruz
+    [witness] => 	Juan Dela Cruz
+    [issue_date] => 2025-09-11
+    [conform] => 	Barangay Captain
+)
+
+[17-Sep-2025 16:21:02 Europe/Berlin] Incoming POST to update_log.php: Array
+(
+    [id] => 133
+    [date_time] => 2025-09-11T21:39
+    [district_id] => 1
+    [municipality_id] => 2
+    [barangay_id] => 688
+    [offense_category_id] => 4
+    [offense_type_id] => 13
+    [offense_custom] => Community-Based & Sustainable Forestry, EO 23 – Logging moratorium violation (natural forests)
+    [remarks] => jkjk
+    [status] => Closed
+    [species_form] => Array
+        (
+            [0] => Batikuling
+        )
+
+    [species_custom] => Array
+        (
+            [0] => 
+        )
+
+    [form] => Array
+        (
+            [0] => Round Logs
+        )
+
+    [form_custom] => Array
+        (
+            [0] => 
+        )
+
+    [size] => Array
+        (
+            [0] => M
+        )
+
+    [size_custom] => Array
+        (
+            [0] => 
+        )
+
+    [pieces] => Array
+        (
+            [0] => 1
+        )
+
+    [volume] => Array
+        (
+            [0] => 12.00
+        )
+
+    [value] => Array
+        (
+            [0] => 1.00
+        )
+
+    [origin] => Array
+        (
+            [0] => 1
+        )
+
+    [owner] => Array
+        (
+            [0] => aa
+        )
+
+    [kind] => Array
+        (
+            [0] => van
+        )
+
+    [plate] => Array
+        (
+            [0] => none
+        )
+
+    [engine] => Array
+        (
+            [0] => EN456789 / CH789456
+        )
+
+    [vehicle_value] => Array
+        (
+            [0] => 1.00
+        )
+
+    [driver] => Array
+        (
+            [0] => aaa
+        )
+
+    [equipment] => Array
+        (
+            [0] => Chainsaw - Stihl MS361
+        )
+
+    [equipment_features] => Array
+        (
+            [0] => machine
+        )
+
+    [equipment_value] => Array
+        (
+            [0] => 1.00
+        )
+
+    [equipment_owner] => Array
+        (
+            [0] => <br /><b>Warning</b>:  Undefined array key 
+        )
+
+    [officer] => 	Juan Dela Cruz
+    [witness] => 	Juan Dela Cruz
+    [issue_date] => 2025-09-11
+    [conform] => 	Barangay Captain
+)
+
+[17-Sep-2025 16:21:16 Europe/Berlin] Incoming POST to update_log.php: Array
+(
+    [id] => 133
+    [date_time] => 2025-09-11T21:39
+    [district_id] => 1
+    [municipality_id] => 2
+    [barangay_id] => 688
+    [offense_category_id] => 4
+    [offense_type_id] => 13
+    [offense_custom] => Community-Based & Sustainable Forestry, EO 23 – Logging moratorium violation (natural forests)
+    [remarks] => jkjk
+    [status] => Closed
+    [species_form] => Array
+        (
+            [0] => Batikuling
+        )
+
+    [species_custom] => Array
+        (
+            [0] => 
+        )
+
+    [form] => Array
+        (
+            [0] => Round Logs
+        )
+
+    [form_custom] => Array
+        (
+            [0] => 
+        )
+
+    [size] => Array
+        (
+            [0] => M
+        )
+
+    [size_custom] => Array
+        (
+            [0] => 
+        )
+
+    [pieces] => Array
+        (
+            [0] => 1
+        )
+
+    [volume] => Array
+        (
+            [0] => 12.00
+        )
+
+    [value] => Array
+        (
+            [0] => 1.00
+        )
+
+    [origin] => Array
+        (
+            [0] => 1
+        )
+
+    [owner] => Array
+        (
+            [0] => aa
+        )
+
+    [kind] => Array
+        (
+            [0] => van
+        )
+
+    [plate] => Array
+        (
+            [0] => none
+        )
+
+    [engine] => Array
+        (
+            [0] => EN456789 / CH789456
+        )
+
+    [vehicle_value] => Array
+        (
+            [0] => 1.00
+        )
+
+    [driver] => Array
+        (
+            [0] => aaa
+        )
+
+    [equipment] => Array
+        (
+            [0] => Chainsaw - Stihl MS361
+        )
+
+    [equipment_features] => Array
+        (
+            [0] => machine
+        )
+
+    [equipment_value] => Array
+        (
+            [0] => 1.00
+        )
+
+    [equipment_owner] => Array
+        (
+            [0] => <br /><b>Warning</b>:  Undefined array key 
+        )
+
+    [officer] => 	Juan Dela Cruz
+    [witness] => 	Juan Dela Cruz
+    [issue_date] => 2025-09-11
+    [conform] => 	Barangay Captain
+)
+
+[17-Sep-2025 16:21:32 Europe/Berlin] Incoming POST to update_log.php: Array
+(
+    [id] => 133
+    [date_time] => 2025-09-11T21:39
+    [district_id] => 1
+    [municipality_id] => 2
+    [barangay_id] => 194
+    [offense_category_id] => 4
+    [offense_type_id] => 13
+    [offense_custom] => Community-Based & Sustainable Forestry, EO 23 – Logging moratorium violation (natural forests)
+    [remarks] => jkjk
+    [status] => Closed
+    [species_form] => Array
+        (
+            [0] => Batikuling
+        )
+
+    [species_custom] => Array
+        (
+            [0] => 
+        )
+
+    [form] => Array
+        (
+            [0] => Round Logs
+        )
+
+    [form_custom] => Array
+        (
+            [0] => 
+        )
+
+    [size] => Array
+        (
+            [0] => M
+        )
+
+    [size_custom] => Array
+        (
+            [0] => 
+        )
+
+    [pieces] => Array
+        (
+            [0] => 1
+        )
+
+    [volume] => Array
+        (
+            [0] => 12.00
+        )
+
+    [value] => Array
+        (
+            [0] => 1.00
+        )
+
+    [origin] => Array
+        (
+            [0] => 1
+        )
+
+    [owner] => Array
+        (
+            [0] => aa
+        )
+
+    [kind] => Array
+        (
+            [0] => van
+        )
+
+    [plate] => Array
+        (
+            [0] => none
+        )
+
+    [engine] => Array
+        (
+            [0] => EN456789 / CH789456
+        )
+
+    [vehicle_value] => Array
+        (
+            [0] => 1.00
+        )
+
+    [driver] => Array
+        (
+            [0] => aaa
+        )
+
+    [equipment] => Array
+        (
+            [0] => Chainsaw - Stihl MS361
+        )
+
+    [equipment_features] => Array
+        (
+            [0] => machine
+        )
+
+    [equipment_value] => Array
+        (
+            [0] => 1.00
+        )
+
+    [equipment_owner] => Array
+        (
+            [0] => <br /><b>Warning</b>:  Undefined array key 
+        )
+
+    [officer] => 	Juan Dela Cruz
+    [witness] => 	Juan Dela Cruz
+    [issue_date] => 2025-09-11
+    [conform] => 	Barangay Captain
+)
+
+✅ QR Generated: C:\xampp\htdocs\LogTrackmain\inc/../assets/qrcodes/135.png
