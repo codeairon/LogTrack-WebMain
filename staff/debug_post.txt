@@ -1,0 +1,24 @@
+Array
+(
+    [month] => 1
+    [species] => Array
+        (
+            [0] => ipil
+            [1] => molave
+            [2] => narra
+            [3] => tuai
+            [4] => bamboo
+            [5] => tree
+        )
+
+    [quantity] => Array
+        (
+            [0] => 50
+            [1] => 50
+            [2] => 50
+            [3] => 50
+            [4] => 50
+            [5] => 50
+        )
+
+)
